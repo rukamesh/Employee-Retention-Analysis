@@ -1,0 +1,11 @@
+Data : HR_Data.csv
+Data Visulisation : HR Analysis.ipynb
+Final Model : Final Model.ipynb
+
+Library required to run the code: Jupyter Notebook, Python 2.7, Panadas,
+ Scikit-Learn, Numpy, matplotlib
+
+
+ Note:
+ 1. HR_Data.csv, HR Analysis.ipynb, Final Model.ipynb should be in same in same directory
+ 2. Run the code using Jupyter Notebook and install all the mentioned library
