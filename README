@@ -7,5 +7,5 @@ Library required to run the code: Jupyter Notebook, Python 2.7, Panadas,
 
 
  Note:
- 1. HR_Data.csv, HR Analysis.ipynb, Final Model.ipynb should be in same in same directory
+ 1. HR_Data.csv, HR Analysis.ipynb, Final Model.ipynb should be in same directory
  2. Run the code using Jupyter Notebook and install all the mentioned library
