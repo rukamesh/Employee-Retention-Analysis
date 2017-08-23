@@ -1,6 +1,6 @@
 Data : HR_Data.csv
-Data Visulisation : HR Analysis.ipynb
-Final Model : Final Model.ipynb
+Data Visulisation code : HR Analysis.ipynb
+Final Model evaluation code : Final Model.ipynb
 
 Library required to run the code: Jupyter Notebook, Python 2.7, Panadas,
  Scikit-Learn, Numpy, matplotlib
